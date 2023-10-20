@@ -8,7 +8,7 @@ A Flutter Weather app which helps you check the weather in a particular city.
 - run app
 
 ## Information
-- uses Open Meteo API for getting weather
+- uses Open Meteo API for getting weather --> https://open-meteo.com/
 - uses bloc state management
 
 ## Functionality

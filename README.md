@@ -12,3 +12,9 @@ A Flutter Weather app which helps you check the weather in a particular city.
 - uses bloc state management
 
 ## Functionality
+- Search for city
+- Display temperature 
+- temperature units displayed (change them if need --> imperial vs metric)
+- pull to refresh app
+- app state kept after closing the app
+- etc.
